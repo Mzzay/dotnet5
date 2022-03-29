@@ -15,7 +15,7 @@ _Downloading dotnet-install.sh from https://dot.net/v1/dotnet-install.sh_
 curl -L https://dot.net/v1/dotnet-install.sh > dotnet-install.sh
 ```
 
-_Make as execetubable file_
+_Make as executable file_
 ```
 chmod +x dotnet-install.sh
 ```
