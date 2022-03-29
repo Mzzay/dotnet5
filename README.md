@@ -5,7 +5,7 @@ There is two solutions:
 
 - You can start `start.sh` program. by using. 
 ```
-chmod +x ./start.sh
+(sudo) ./start.sh
 ```
 
 - You can do it manually.
